@@ -1,0 +1,24 @@
+{
+  "name": "asafmor-plugins",
+  "owner": {
+    "name": "Asaf Mor"
+  },
+  "description": "Asaf Mor's marketplace of Claude Code plugins",
+  "plugins": [
+    {
+      "name": "graphify",
+      "source": "./plugins/graphify",
+      "description": "One-command onboarding that sets up graphify offline code indexing on a repo — indexes code into a queryable knowledge graph coding agents use for smart retrieval instead of grepping."
+    },
+    {
+      "name": "travel",
+      "source": "./plugins/travel",
+      "description": "Deep research for named trails, treks, hikes, and routes, producing comprehensive, current, source-backed planning reports."
+    },
+    {
+      "name": "visuals",
+      "source": "./plugins/visuals",
+      "description": "Visual media for coding agents: generate posters, social posts and web/game assets with the Codex CLI, and build trailers, promos and social clips with Remotion."
+    }
+  ]
+}

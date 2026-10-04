@@ -1,0 +1,35 @@
+.serena/
+.claude/
+
+# Secrets and credentials — never commit
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa
+id_ed25519
+*_rsa
+credentials.json
+secrets.yml
+secrets.yaml
+
+# Dependencies and build output
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+dist/
+build/
+
+# Generated media (see plugins/visuals)
+assets/raw/
+out/
+logs/
+
+# OS cruft
+.DS_Store
+Thumbs.db
+desktop.ini

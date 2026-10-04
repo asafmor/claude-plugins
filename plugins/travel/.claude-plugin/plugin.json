@@ -1,0 +1,8 @@
+{
+  "name": "travel",
+  "version": "1.0.0",
+  "description": "Deep research for named trails, treks, hikes, and routes, producing comprehensive, current, source-backed planning reports.",
+  "author": {
+    "name": "Asaf Mor"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "graphify",
+  "version": "1.0.0",
+  "description": "One-command onboarding that sets up graphify offline code indexing on a repo — indexes code into a queryable knowledge graph coding agents use for smart retrieval instead of grepping.",
+  "author": {
+    "name": "Asaf Mor"
+  }
+}

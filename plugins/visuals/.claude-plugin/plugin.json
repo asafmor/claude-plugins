@@ -1,0 +1,8 @@
+{
+  "name": "visuals",
+  "version": "1.2.0",
+  "description": "Visual media for coding agents: generate posters, social posts and web/game assets with the Codex CLI, and build trailers, promos and social clips with Remotion.",
+  "author": {
+    "name": "Asaf Mor"
+  }
+}

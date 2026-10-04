@@ -1,0 +1,14 @@
+interface:
+  display_name: Trail Researcher
+  short_description: Deep research and planning reports for hiking routes
+  default_prompt: Deep-research this trail or trek and return the complete report
+    using the skill's fixed structure.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  allow_implicit_invocation: true
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
