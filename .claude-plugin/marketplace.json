@@ -19,6 +19,11 @@
       "name": "visuals",
       "source": "./plugins/visuals",
       "description": "Visual media for coding agents: generate posters, social posts and web/game assets with the Codex CLI, and build trailers, promos and social clips with Remotion."
+    },
+    {
+      "name": "review-tools",
+      "source": "./plugins/review-tools",
+      "description": "Code review for coding agents: run OpenCodeReview (ocr) with the right mode and flags, then triage its findings into fixes and reasoned rejections."
     }
   ]
 }

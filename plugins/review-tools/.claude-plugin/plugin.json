@@ -1,0 +1,8 @@
+{
+  "name": "review-tools",
+  "version": "1.0.0",
+  "description": "Code review for coding agents: run OpenCodeReview (ocr) on a commit, branch or the whole repo with the right flags, read its JSON, and triage findings into fixes and reasoned rejections. Includes one-time setup and a field report.",
+  "author": {
+    "name": "Asaf Mor"
+  }
+}

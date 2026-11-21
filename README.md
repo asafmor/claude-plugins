@@ -9,6 +9,7 @@ A marketplace of Claude Code plugins.
 /plugin install graphify@asafmor-plugins
 /plugin install travel@asafmor-plugins
 /plugin install visuals@asafmor-plugins
+/plugin install review-tools@asafmor-plugins
 ```
 
 ## Plugins
@@ -18,6 +19,8 @@ A marketplace of Claude Code plugins.
 - **[travel](./plugins/travel)** — adds `/trail-researcher` for deep, current, source-backed trail and route planning reports.
 
 - **[visuals](./plugins/visuals)** — adds `/codex-image-gen` for generating and post-processing images with the Codex CLI, and `/remotion-videos` for trailers, promos and social clips rendered with Remotion.
+
+- **[review-tools](./plugins/review-tools)** — adds `/open-code-review` for running OpenCodeReview (`ocr`) on commits, branches or the whole repo with the right flags, and triaging its findings into fixes and reasoned rejections.
 
 ## Adding a plugin
 
